@@ -4,8 +4,7 @@ Got bored at work. Re-wrote basically the same thing as the [Astro](https://gith
 Because I could. 
 
 ## Things
-**API Used:** http://exoplanetarchive.ipac.caltech.edu
-
+**API Used:** http://exoplanetarchive.ipac.caltech.edu<br/>
 **API Doco:** http://exoplanetarchive.ipac.caltech.edu/docs/program_interfaces.html#data
 **Pre-Generated API Queries** http://exoplanetarchive.ipac.caltech.edu/docs/API_queries.html
 **Format control** &format=JSON
